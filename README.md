@@ -21,12 +21,13 @@ This project allows users to search for books using the Google Books API. Users 
 ## Link
 
 Click the Link below to use the app
-()
+(<https://calm-inlet-40932-ce4898dd1f2a.herokuapp.com/>)
 
 ## Screenshots
 
-()
-()
+![Screenshot One](assets/images/Screenshot%202023-11-15%20170108.png)
+![Screenshot Two](assets/images/Screenshot%202023-11-15%20180228.png)
+![Screenshot Two](assets/images/Screenshot%202023-11-15%20180326.png)
 
 ## Questions
 
